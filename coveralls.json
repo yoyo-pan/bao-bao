@@ -1,0 +1,18 @@
+{
+  "skip_files": [
+    "deps",
+    "lib/bao_bao_wang/application.ex",
+    "lib/bao_bao_wang/repo.ex",
+    "lib/bao_bao_wang_web.ex",
+    "lib/bao_bao_wang_web/endpoint.ex",
+    "lib/bao_bao_wang_web/gettext.ex",
+    "lib/bao_bao_wang_web/router.ex",
+    "lib/bao_bao_wang_web/views",
+    "lib/bao_bao_wang_web/schema.ex",
+    "lib/bao_bao_wang_web/channels/user_socket.ex",
+    "test/support"
+  ],
+  "coverage_options": {
+    "treat_no_relevant_lines_as_covered": true
+  }
+}
